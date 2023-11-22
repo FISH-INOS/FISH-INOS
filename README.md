@@ -24,13 +24,13 @@
 
 
 
-
+<!-- Enquanto não tiver commit com a propria conta não ira funcionar o stats
 <h2 align="left"> Most Languages </h2>
 <div align="left">
   <a href="https://github.com/FISH-INOS">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FISH-INOS&theme=dark"/>
 </div>
-
+-->
 <h2 align="left"> Git Hub Stats </h2>
 <div align="left">
   <a href="https://github.com/FISH-INOS">
